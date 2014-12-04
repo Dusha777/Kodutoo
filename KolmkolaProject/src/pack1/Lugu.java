@@ -15,6 +15,7 @@ public class Lugu {
 		chordG.printKolmkola();
 		chordG.printKolmkolaT();
 		Thread.sleep(1000);
+		// ojhfijbhaljeflbkajdöfkbjöEIFKOLJKN
 
 	}
 
